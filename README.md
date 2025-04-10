@@ -8,11 +8,11 @@ In this project, I created a cybersecurity incident report analyzing a Distribut
 
 ## 🧠 Skills Learned
 
-- Cybersecurity incident analysis  
-- Application of the NIST Cybersecurity Framework (CSF)  
-- Network security strategy development  
-- Risk identification and mitigation  
-- Technical reporting and documentation
+- Cybersecurity incident analysis.  
+- Application of the NIST Cybersecurity Framework (CSF).  
+- Network security strategy development.  
+- Risk identification and mitigation.  
+- Technical reporting and documentation.
 
 ## 📄 Incident Report – Analysis Table
 
@@ -25,6 +25,6 @@ In this project, I created a cybersecurity incident report analyzing a Distribut
 | **Respond** | For future incidents, the team plans to isolate affected systems, restore critical services, analyze network logs for suspicious activity, and report incidents to upper management and legal authorities. |
 | **Recover** | Recovery involves restoring access to network services. The plan includes blocking ICMP floods at the firewall, stopping non-critical services, restoring critical services first, and bringing systems back online once the attack has subsided. |
 
-## 💡 Reflections / Lessons Learned
+## 💡 Reflections
 
 This exercise helped reinforce the importance of applying structured frameworks like the NIST CSF when responding to cybersecurity incidents. I learned how each phase (Identify, Protect, Detect, Respond, Recover) contributes to building a strong incident response strategy. It also highlighted the need for proactive security measures, such as firewall configurations and network monitoring, to minimize the impact of DDoS attacks. Documenting and analyzing incidents is essential not only for learning from past events but also for strengthening future response capabilities.
